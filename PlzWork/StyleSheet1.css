@@ -1,0 +1,30 @@
+﻿body {
+    background-color: #00B964;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+td {
+    border: 2px solid #4C245C;
+}
+
+table {
+    text-align: center;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+
+    .button:hover {
+        background-color: #4C245C;
+        color: white;
+    }
